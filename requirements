@@ -1,6 +1,5 @@
 streamlit
-plotly
-torch
-opencv-python-headless
+pandas
 numpy
-Pillow
+plotly
+pillow
